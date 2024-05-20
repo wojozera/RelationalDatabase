@@ -1,1 +1,1 @@
-Relational database and examplary written queries against it in MSSQL. 
+Design and implementation of relational database and examplary queries written against it in MSSQL. 
